@@ -1,0 +1,76 @@
+Snow White AI Source Available License
+
+Preamble:
+
+This license governs the use of the Snow White AI software (the "Software"), which includes all source code, documentation, and related materials. By accessing, using, modifying, or distributing the Software, you agree to the terms and conditions of this license.
+
+1. Definitions:
+
+* **Commercial Use:** Any use of the Software, in whole or in part, directly or indirectly, that is intended for or directed towards commercial advantage or monetary compensation. This includes, but is not limited to:
+    * Offering the Software as a standalone product or service.
+    * Integrating the Software into a commercial product or service.
+    * Using the Software to provide services for a fee.
+    * Deploying the Software in a production environment for business operations that generate revenue.
+* **Non-Commercial Use:** Any use of the Software that is not Commercial Use. This includes, but is not limited to:
+    * Personal use.
+    * Educational purposes.
+    * Research and development (excluding direct commercialization of the results).
+    * Internal evaluation and testing.
+    * Contributing to the Software under the terms outlined in Section 3.
+* **Licensor:** Roshan Swain <swainroshan001@gmail.com>, Snow White AI
+  <snowwhiteai.com>
+* **Contributor:** Any individual or entity that submits code or other contributions to the Software.
+
+2. License Grant:
+
+* Subject to the terms and conditions of this license, Licensor grants you a non-exclusive, royalty-free, worldwide license to:
+    * Access and view the source code of the Software.
+    * Use, reproduce, and modify the Software for Non-Commercial Use only.
+    * Distribute copies of the Software (in source code or object code form) for Non-Commercial Use, provided that each copy includes this license and all copyright notices.
+
+3. Restrictions on Commercial Use:
+
+* You are **strictly prohibited** from engaging in any Commercial Use of the Software without obtaining a separate, explicit commercial license from the Licensor.
+* This prohibition includes, but is not limited to, offering voice agent services or development platforms based on the Software for commercial gain.
+* To inquire about obtaining a commercial license, please contact [Your Contact Email or Website]. The terms and conditions of any commercial license will be determined solely by the Licensor.
+
+4. Contributions:
+
+* By contributing any code, documentation, or other materials to the Software, you agree that:
+    * Your contribution is made under the terms of this Snow White AI Source Available License.
+    * The Licensor shall have the unrestricted right to use, modify, and incorporate your contributions into the Software for any purpose, including commercial purposes, without any obligation or compensation to you.
+    * The Licensor has the sole discretion to decide whether or not to include your contribution in the Software.
+
+5. Intellectual Property:
+
+* The Software and all associated intellectual property rights, including copyright, patents (including appearance patents for interactive design), and trademarks, are and shall remain the sole and exclusive property of the Licensor.
+* This license grants you limited rights to use the Software as expressly stated herein and does not transfer any ownership or other rights to you.
+
+6. Disclaimer of Warranty:
+
+* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. Limitation of Liability:
+
+* IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES (INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES) ARISING OUT OF OR RELATING TO YOUR ACCESS TO, USE OF, INABILITY TO ACCESS OR USE THE SOFTWARE, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE) OR ANY OTHER LEGAL THEORY, WHETHER OR NOT THE LICENSOR HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+8. Termination:
+
+* This license will terminate automatically if you fail to comply with any of its terms and conditions. Upon termination, you must cease all use, reproduction, and distribution of the Software.
+
+9. Governing Law:
+
+* This license shall be governed by and construed in accordance with the laws of the Republic of India.
+* Any dispute arising out of or in connection with this license shall be subject
+  to the exclusive jurisdiction of the courts in Bengaluru, Karnataka.
+
+10. Entire Agreement:
+
+* This license constitutes the entire agreement between you and the Licensor concerning the Software and supersedes all prior or contemporaneous communications and proposals, whether oral or written, between you and the Licensor with respect to the Software.
+
+11. Contact:
+
+* If you have any questions about this license or wish to inquire about a
+  commercial license, please contact: Roshan Swain <swainroshan001@gmail.com>.
+
+© 2025 Snow White AI. All rights reserved.
