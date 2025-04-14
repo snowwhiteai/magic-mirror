@@ -17,11 +17,11 @@ install: venv
 env:
 	@echo "Run this command in your shell: source $(VENV)/bin/activate"
 
-run: venv
-	$(BIN)/python main.py
+run: 
+	$(BIN)/python3 main.py
 
 serve: venv
-	$(BIN)/uvicorn web.app:app --reload --host 0.0.0.0 --port 8000
+	$(BIN)/uvicorn main:app --reload --host 0.0.0.0 --port 8000
 
 clean:
 	rm -rf $(VENV)
