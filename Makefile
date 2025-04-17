@@ -1,4 +1,4 @@
-.PHONY: setup venv install run clean docker-build docker-run test lint
+.PHONY: setup venv install run clean docker-build docker-run test lint export-requirements
 
 PYTHON := python3
 VENV := .venv
@@ -9,7 +9,11 @@ setup: venv install
 venv:
 	$(PYTHON) -m venv $(VENV)
 
-install: venv
+# Export requirements.txt from Poetry
+export-requirements:
+	poetry export --without-hashes --format=requirements.txt --output=requirements.txt 
+
+install: venv export-requirements
 	$(BIN)/pip install --upgrade pip
 	$(BIN)/pip install uv
 	$(BIN)/uv pip install -r requirements.txt
@@ -17,11 +21,8 @@ install: venv
 env:
 	@echo "Run this command in your shell: source $(VENV)/bin/activate"
 
-run: 
-	$(BIN)/python3 main.py
-
 serve: venv
-	$(BIN)/uvicorn main:app --reload --host 0.0.0.0 --port 8000
+	$(BIN)/uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 
 clean:
 	rm -rf $(VENV)
